@@ -3182,7 +3182,7 @@ function Nn(e) {
 }
 let Ue = fe(!1),
     Ce = fe("");
-fetch("https://raw.githubusercontent.com/awdev1/fsm/master/backend").then(e => {
+fetch("https://raw.githubusercontent.com/FormicAcidGD/fsm/master/backend").then(e => {
     e.text().then(t => {
         Ce.value = t
     })
