@@ -12,22 +12,22 @@ body {
 	word-break: break-all
 }
 
-.aircraft.outbound[data-v-b7c1652a] {
+.aircraft.outbound[data-v-7651abfb] {
 	background-color: #223041;
 	border: 3px solid #3871bd
 }
 
-.aircraft.inbound[data-v-b7c1652a] {
+.aircraft.inbound[data-v-7651abfb] {
 	background-color: #223928;
 	border: 3px solid #379f3e
 }
 
-.aircraft.vfr[data-v-b7c1652a] {
+.aircraft.vfr[data-v-7651abfb] {
 	background-color: #3d2441;
 	border: 3px solid #bf2fbc
 }
 
-.aircraft[data-v-b7c1652a] {
+.aircraft[data-v-7651abfb] {
 	border: 3px solid #888888;
 	background-color: #313131;
 	width: 23vw;
@@ -42,23 +42,23 @@ body {
 	margin-bottom: .5vh
 }
 
-.outbound>input[data-v-b7c1652a],
-.outbound>button[data-v-b7c1652a] {
+.outbound>input[data-v-7651abfb],
+.outbound>button[data-v-7651abfb] {
 	background-color: #2c3b52
 }
 
-.inbound>input[data-v-b7c1652a],
-.inbound>button[data-v-b7c1652a] {
+.inbound>input[data-v-7651abfb],
+.inbound>button[data-v-7651abfb] {
 	background-color: #2c4733
 }
 
-.vfr>input[data-v-b7c1652a],
-.vfr>button[data-v-b7c1652a] {
+.vfr>input[data-v-7651abfb],
+.vfr>button[data-v-7651abfb] {
 	background-color: #48294c
 }
 
-input[data-v-b7c1652a],
-button[data-v-b7c1652a] {
+input[data-v-7651abfb],
+button[data-v-7651abfb] {
 	background-color: #656565;
 	border: none;
 	outline: none;
@@ -70,83 +70,83 @@ button[data-v-b7c1652a] {
 	height: 3vh
 }
 
-input[data-v-b7c1652a]::placeholder {
+input[data-v-7651abfb]::placeholder {
 	color: #999
 }
 
-.callsign[data-v-b7c1652a] {
+.callsign[data-v-7651abfb] {
 	grid-column-start: 1;
 	grid-column-end: 5;
 	grid-row: 1;
 	width: 22.5vw
 }
 
-.departing[data-v-b7c1652a] {
+.departing[data-v-7651abfb] {
 	grid-column: 2;
 	grid-row: 2
 }
 
-.type[data-v-b7c1652a] {
+.type[data-v-7651abfb] {
 	grid-column: 1;
 	grid-row: 2
 }
 
-.altitude[data-v-b7c1652a] {
+.altitude[data-v-7651abfb] {
 	grid-column: 3;
 	grid-row: 2
 }
 
-.gate[data-v-b7c1652a] {
+.gate[data-v-7651abfb] {
 	grid-column: 4;
 	grid-row: 2
 }
 
-.arriving[data-v-b7c1652a] {
+.arriving[data-v-7651abfb] {
 	grid-column: 2;
 	grid-row: 3
 }
 
-.status[data-v-b7c1652a] {
+.status[data-v-7651abfb] {
 	grid-column: 1;
 	grid-row: 3
 }
 
-.runway[data-v-b7c1652a] {
+.runway[data-v-7651abfb] {
 	grid-column: 3;
 	grid-row: 3
 }
 
-.squawk[data-v-b7c1652a] {
+.squawk[data-v-7651abfb] {
 	grid-column: 4;
 	grid-row: 3
 }
 
-.route[data-v-b7c1652a] {
+.route[data-v-7651abfb] {
 	grid-column-start: 1;
 	grid-column-end: 5;
 	grid-row: 4;
 	width: 22.5vw
 }
 
-.free[data-v-b7c1652a] {
+.free[data-v-7651abfb] {
 	grid-column-start: 1;
 	grid-column-end: 2;
 	grid-row: 5
 }
 
-.outbound>select[data-v-b7c1652a] {
+.outbound>select[data-v-7651abfb] {
 	background-color: #2c3a51
 }
 
-.inbound>select[data-v-b7c1652a] {
+.inbound>select[data-v-7651abfb] {
 	background-color: #2c4733
 }
 
-.vfr>select[data-v-b7c1652a] {
+.vfr>select[data-v-7651abfb] {
 	background-color: #48294c
 }
 
-select[data-v-b7c1652a] {
+select[data-v-7651abfb] {
 	color: #fff;
 	border: none;
 	width: 5.35vw;
@@ -154,17 +154,17 @@ select[data-v-b7c1652a] {
 	font-size: 1.2vh
 }
 
-.a_altitude[data-v-b7c1652a] {
+.a_altitude[data-v-7651abfb] {
 	grid-column: 2;
 	grid-row: 5
 }
 
-.a_heading[data-v-b7c1652a] {
+.a_heading[data-v-7651abfb] {
 	grid-column: 3;
 	grid-row: 5
 }
 
-.delete[data-v-b7c1652a] {
+.delete[data-v-7651abfb] {
 	grid-column: 4;
 	grid-row: 5;
 	padding: .25vh .25vw .25vh .25vw;
@@ -172,17 +172,17 @@ select[data-v-b7c1652a] {
 	width: 5.4vw
 }
 
-button[data-v-b7c1652a]:hover {
+button[data-v-7651abfb]:hover {
 	cursor: pointer
 }
 
-.id[data-v-d900223e] {
+.id[data-v-53f217e0] {
 	font-size: 2vh;
 	text-align: center;
 	margin-bottom: 0
 }
 
-.acftList[data-v-d900223e] {
+.acftList[data-v-53f217e0] {
 	width: 25vw;
 	display: flex;
 	flex-direction: column;
@@ -191,21 +191,21 @@ button[data-v-b7c1652a]:hover {
 	height: 95vh
 }
 
-.list[data-v-d900223e] {
+.list[data-v-53f217e0] {
 	overflow-y: scroll
 }
 
-[data-v-d900223e]::-webkit-scrollbar {
+[data-v-53f217e0]::-webkit-scrollbar {
 	width: 0px
 }
 
-.all[data-v-d900223e] {
+.all[data-v-53f217e0] {
 	width: 100vw;
 	height: 100vh;
 	display: flex
 }
 
-h1[data-v-d900223e] {
+h1[data-v-53f217e0] {
 	font-size: 3vh
 }
 
