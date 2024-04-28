@@ -23705,7 +23705,7 @@ ACARS END`, 1)) : Z("", !0)])) : Z("", !0), s(ni) == "CALL" ? (D(), p("div", fR,
     },
     hR = Wl(() => E("h1", null, "FSM", -1)),
     VR = Wl(() => E("a", {
-        href: "https://discord.com/api/oauth2/authorize?client_id=1199262091752779777&response_type=code&redirect_uri=https%3A%2F%2Fformicacidgd.github.io%2Ffsm&scope=identify"
+        href: "https://discord.com/api/oauth2/authorize?client_id=1233932484203515925&response_type=code&redirect_uri=https%3A%2F%2Fawdev1.github.io%2Ffsm&scope=identify"
     }, "Log In With Discord", -1)),
     KR = {
         key: 3,
