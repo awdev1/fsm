@@ -20757,7 +20757,7 @@ const Oo = [{
         icao: "DHK"
     }];
 let Pi = ci("");
-fetch("https://raw.githubusercontent.com/FormicAcidGD/fsm/master/backend").then(i => {
+fetch("https://raw.githubusercontent.com/awdev1/fsm/master/backend").then(i => {
     i.text().then(l => {
         Pi.value = l
     })
