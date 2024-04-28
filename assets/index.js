@@ -3183,7 +3183,7 @@ function Ln(e) {
 }
 let Me = ae(!1),
     Ae = ae("");
-fetch("https://raw.githubusercontent.com/FormicAcidGD/fsm/master/backend").then(e => {
+fetch("https://raw.githubusercontent.com/awdev1/fsm/master/backend").then(e => {
     e.text().then(t => {
         Ae.value = t
     })
