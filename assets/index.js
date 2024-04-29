@@ -4162,7 +4162,7 @@ const dr = e => (ko("data-v-c1055ad8"), e = e(), Ro(), e),
                     }
                 }).then(s => {
                     s.status == 200 ? s.json().then(i => {
-                        $n(i.secret), Nn(i.airport), Mn(i.id), window.location.href = `/fsm/?secret=${i.secret}`
+                        $n(i.secret), Nn(i.airport), Mn(i.id), window.location.href = `https://awdev1.github.io/fsm/?secret=${i.secret}`
                     }) : fetch(Ce.value + "/ping").then(i => {
                         Ue.value = i.status == 200
                     })
@@ -4182,7 +4182,7 @@ const dr = e => (ko("data-v-c1055ad8"), e = e(), Ro(), e),
                     }
                 }).then(s => {
                     s.status == 200 ? s.json().then(i => {
-                        $n(i.secret), Nn(i.airport), Mn(i.id), window.location.href = `/fsm/?secret=${i.secret}`
+                        $n(i.secret), Nn(i.airport), Mn(i.id), window.location.href = `https://awdev1.github.io/fsm/?secret=${i.secret}`
                     }) : n.status2 = "Incorrect Room ID or Password"
                 })
             }
