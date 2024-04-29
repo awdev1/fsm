@@ -3190,7 +3190,7 @@ fetch("https://raw.githubusercontent.com/awdev1/fsm/master/backend").then(e => {
 async function kl() {
     let e = await fetch(Ce.value + "/plans", {
         headers: {
-            "ngrok-skip-browser-warning": "69420",
+            "bypass-tunnel-reminder": "69420",
             Authorization: Ot()
         }
     });
@@ -3202,7 +3202,7 @@ async function Rl(e) {
         body: JSON.stringify(e),
         headers: {
             "Content-Type": "application/json",
-            "ngrok-skip-browser-warning": "69420",
+            "bypass-tunnel-reminder": "69420",
             Authorization: Ot()
         }
     })
@@ -3213,7 +3213,7 @@ async function Pl(e) {
         body: JSON.stringify(e),
         headers: {
             "Content-Type": "application/json",
-            "ngrok-skip-browser-warning": "69420",
+            "bypass-tunnel-reminder": "69420",
             Authorization: Ot()
         }
     })
@@ -4158,7 +4158,7 @@ const dr = e => (ko("data-v-c1055ad8"), e = e(), Ro(), e),
                     }),
                     headers: {
                         "Content-Type": "application/json",
-                        "ngrok-skip-browser-warning": "69420"
+                        "bypass-tunnel-reminder": "69420"
                     }
                 }).then(s => {
                     s.status == 200 ? s.json().then(i => {
@@ -4178,7 +4178,7 @@ const dr = e => (ko("data-v-c1055ad8"), e = e(), Ro(), e),
                     }),
                     headers: {
                         "Content-Type": "application/json",
-                        "ngrok-skip-browser-warning": "69420"
+                        "bypass-tunnel-reminder": "69420"
                     }
                 }).then(s => {
                     s.status == 200 ? s.json().then(i => {
@@ -4197,7 +4197,7 @@ const dr = e => (ko("data-v-c1055ad8"), e = e(), Ro(), e),
                             }),
                             headers: {
                                 "Content-Type": "application/json",
-                                "ngrok-skip-browser-warning": "69420"
+                                "bypass-tunnel-reminder": "69420"
                             }
                         }).then(l => {
                             l.status == 200 ? l.json().then(c => {
