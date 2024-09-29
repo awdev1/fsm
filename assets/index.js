@@ -30,7 +30,7 @@ ICAO/IATA: IRFD / RFD
 Lat/Long: N41° 43.3', W000° 01.4'
 Elevation: 0 ft
 
-Airport Use: Public`,runwayInfo:[{name1:"25R",name2:"07L",length:3048,type:"concrete"},{name1:"25C",name2:"06C",length:3680,type:"concrete"},{name1:"25L",name2:"07R",length:3197,type:"concrete"}],commsInfo:`ATIS: 127.600
+Airport Use: Public`,runwayInfo:[{name1:"25R",name2:"07L",length:3048,type:"concrete"},{name1:"25C",name2:"07C",length:3680,type:"concrete"},{name1:"25L",name2:"07R",length:3197,type:"concrete"}],commsInfo:`ATIS: 127.600
 Rockford Delivery: 128.400
 Rockford Ground: 120.400
 Rockford Tower: 118.100
